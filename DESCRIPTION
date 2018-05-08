@@ -2,7 +2,7 @@ Package: DataConversion
 Type: Package
 Title: Data Conversion
 Version: 0.1.2
-Author: Saino Renjit
+Author: UvionicsTech
 Maintainer: Saino Renjit<saino.renjith@citta.ai>
 Description: Data conversion is the process of transforming data from one format to another.It involves extracting data from its original source, transforming the data into the desired format, and finally, loading the data into the source location.
 Depends: R (>= 3.2.3)
